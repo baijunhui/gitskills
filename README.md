@@ -29,3 +29,6 @@ github和git使用
 
 3、删除远程仓库
 	git remote rm [别名]
+	
+4, 获取远程代码
+	git pull origin [分支]
